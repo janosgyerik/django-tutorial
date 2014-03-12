@@ -1,2 +1,3 @@
 tmp
 virtualenv
+*.pyc
