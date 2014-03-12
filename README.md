@@ -1,7 +1,11 @@
 django-tutorial
 ===============
+The Django tutorial, replayed. Useful as sample Django code and for testing.
 
-The Django tutorial, to use for testing stuff
+See also: `git tags`
 
-https://docs.djangoproject.com/en/1.6/intro/tutorial01/
 
+Links
+-----
+- https://docs.djangoproject.com/en/1.6/intro/tutorial01/
+- https://docs.djangoproject.com/en/1.6/intro/tutorial02/
