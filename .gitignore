@@ -1,3 +1,4 @@
 tmp
 virtualenv
 *.pyc
+db.sqlite3
