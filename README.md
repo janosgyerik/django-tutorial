@@ -10,3 +10,5 @@ Links
 - https://docs.djangoproject.com/en/1.6/intro/tutorial01/
 - https://docs.djangoproject.com/en/1.6/intro/tutorial02/
 - https://docs.djangoproject.com/en/1.6/intro/tutorial03/
+- https://docs.djangoproject.com/en/1.6/intro/tutorial04/
+- https://docs.djangoproject.com/en/1.6/intro/tutorial05/
