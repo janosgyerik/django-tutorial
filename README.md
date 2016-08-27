@@ -1,8 +1,35 @@
 django-tutorial
 ===============
+
 The Django tutorial, replayed. Useful as sample Django code and for testing.
 
 See also: `git tags`
+
+Installing
+----------
+
+Create `virtualenv` and install requirements:
+
+    ./scripts/setup.sh
+
+Create initial database:
+
+    ./manage.sh migrate
+
+Create superuser:
+
+    ./manage.sh createsuperuser
+
+Running
+-------
+
+Listen on local network interface, port 8000:
+
+    ./run.sh
+
+Listen on external network interface, port 1234:
+
+    ./run.sh 0.0.0.0:1234
 
 Change Log
 ----------
