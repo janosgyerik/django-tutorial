@@ -4,6 +4,10 @@ The Django tutorial, replayed. Useful as sample Django code and for testing.
 
 See also: `git tags`
 
+Change Log
+----------
+
+- 2016 Aug 27: Upgrade to Django 1.10
 
 Links
 -----
